@@ -41,3 +41,12 @@ div{
     height: 200px;
     background-color: #80CSF5;
 }
+
+.site-footer a{
+font-size: 2em;
+color: green;
+}
+
+.site-footer a:hover{
+color: purple;
+}
