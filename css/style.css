@@ -44,9 +44,9 @@ div{
 
 .site-footer a{
 font-size: 2em;
-color: green;
+color: blue;
 }
 
 .site-footer a:hover{
-color: purple;
+color: grey;
 }
