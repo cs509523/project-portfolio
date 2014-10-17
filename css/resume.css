@@ -15,15 +15,20 @@ h4{color: black;
 h5{color: black;
 }
 
-.workexperience h2{color: black;
-    
+.workexperience h2{
+    color: black;
 }
 
+.nobullets { 
+    list-style: none; 
+}
+    
+
 body {
-    background-image: image(old_mag.png)
+    background-image: url("../images/old_map.png");
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 50px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
